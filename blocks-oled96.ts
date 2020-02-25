@@ -1,7 +1,7 @@
 /**
  * Provides functions to control the Grove OLED 0.96" from a Calliope Mini.
  */
-//% color=#fabe58 icon="\uf108" block="Grove OLED"
+//% color=#fabe58 icon="\uf108" block="Grove OLED Mirko"
 namespace oled96 {
     /**
      * Resets the display and clears it.

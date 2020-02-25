@@ -10,5 +10,9 @@
         "blocks-oled96.ts"
     ],
     "testFiles": [],
-    "public": true
+    "public": true,
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
 }
