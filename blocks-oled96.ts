@@ -30,7 +30,7 @@ namespace oled96 {
         for (let j = 0; j < 16; j++) {
             setTextXY(j, 0);
             {
-                for (let i = 0; i < 16; i++)  //clear all columns
+                for (let i = 0; i < 128; i++)  //clear all columns
                 {
                     putChar(' ');
                 }
